@@ -3,6 +3,12 @@ header {
     margin-left:80px;
 }
 
+.container {
+    max-width: 90%;
+    margin: 10px auto;
+    padding: 20px;
+}
+
 .blue {
     background-color: rgb(108, 192, 221);
 }

@@ -2,3 +2,7 @@ header {
     margin-top: 40;
     margin-left:80px;
 }
+
+.blue {
+    background-color: rgb(108, 192, 221);
+}

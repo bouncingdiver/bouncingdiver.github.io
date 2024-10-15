@@ -28,3 +28,15 @@ header {
     padding-left: 5px;
     padding-right: 5px;
 }
+
+.container green {
+    max-width: 90%;
+    margin: 10px auto;
+    padding: 20px;
+
+    background-color: green;
+}
+
+body {
+    background-color: green;
+}

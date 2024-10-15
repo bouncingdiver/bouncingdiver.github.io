@@ -16,3 +16,10 @@ header {
 .green {
     background-color: rgb(lightgreen);
 }
+
+.centercard {
+    margin: auto;
+    width: 70%;
+    border: 3px solid darkgreen;
+    padding: 10px;
+}

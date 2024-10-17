@@ -1,42 +1,46 @@
-header {
-    margin-top: 40;
-    margin-left:80px;
-}
-
-.container {
+.container{
     max-width: 90%;
     margin: 10px auto;
     padding: 20px;
 }
 
 .blue {
-    background-color: rgb(108, 192, 221);
+    background-color: rgb(108, 193, 221);
 }
 
-.green {
-    background-color: rgb(lightgreen);
+.green{
+    background-color: lightgreen;
+}
+
+.purple{
+    background-color: rgb(227, 134, 227);
+}
+
+.yellow{
+    background-color: lightyellow;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.card-text {
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.btn {
+    width: 130px;
+}
+
+.pic {
+    margin: auto;
+    width: 90%;
+    height: 90%;
+    padding-top: 10px;
 }
 
 .centercard {
     margin: auto;
-    width: 70%;
-    border: 3px solid darkgreen;
     padding: 10px;
-}
-
-.card-text {
-    padding-left: 5px;
-    padding-right: 5px;
-}
-
-.container green {
-    max-width: 90%;
-    margin: 10px auto;
-    padding: 20px;
-
-    background-color: green;
-}
-
-.body {
-    background-color: green;
 }
